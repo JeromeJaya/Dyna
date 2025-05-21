@@ -1,0 +1,5 @@
+let localStorage = {
+  email&name:{
+  jerome: { "jeromeat2002@gmail.com" }
+  }
+}
